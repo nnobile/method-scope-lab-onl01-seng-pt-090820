@@ -1,3 +1,3 @@
-def catch_phrase("It's a-me, Mario!")
-  puts catch_phrase
+def phrase
+  puts phrase
 end
